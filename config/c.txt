@@ -1,9 +1,10 @@
-hide
-hide
-hide
-hide
-hide
+open
+open
+open
+open
+open
 
 keep
 keepkeepkeepkeep
 keep
+
